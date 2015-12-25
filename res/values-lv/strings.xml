@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Tải xuống và mở với</string>
-  <string name="suggested_app">Ứng dụng được đề nghị</string>
+  <string name="download_and_open_with">Lejuplādēt un atvērt ar</string>
+  <string name="suggested_app">Ieteicamā lietotne</string>
 </resources>
