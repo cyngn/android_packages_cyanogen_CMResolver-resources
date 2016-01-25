@@ -17,4 +17,5 @@
 -->
 <resources>
   <string name="download_and_open_with">Descarcă și deschide cu</string>
+  <string name="suggested_app">Aplicație sugerată</string>
 </resources>
