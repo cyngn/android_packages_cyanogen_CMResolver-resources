@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Prejmi in odpri s/z</string>
-  <string name="suggested_app">Predlagana aplikacija</string>
+  <string name="download_and_open_with">Hämta och öppna med</string>
+  <string name="suggested_app">Föreslagen app</string>
 </resources>
