@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Preuzmi i otvori s</string>
-  <string name="suggested_app">Predložena aplikacija</string>
+  <string name="download_and_open_with">Lae alla ja ava rakendusega</string>
+  <string name="suggested_app">Soovitatud app</string>
 </resources>

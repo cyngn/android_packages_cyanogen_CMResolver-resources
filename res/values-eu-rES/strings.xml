@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Deskargatu eta ireki honekin</string>
+  <string name="download_and_open_with">Deskargatu eta honekin ireki:</string>
   <string name="suggested_app">Proposatutako aplikazioa</string>
 </resources>
