@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Скачать и открыть с помощью</string>
-  <string name="suggested_app">Рекомендуемое приложение</string>
+  <string name="download_and_open_with">Завантажити і відкрити за допомогою</string>
+  <string name="suggested_app">Запропонований додаток</string>
 </resources>
