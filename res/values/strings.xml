@@ -17,6 +17,6 @@
 
 <resources>
     <string name="app_name" translatable="false">CyanogenMod Resolver</string>
-    <string name="download_and_open_with">Download and open with</string>
-    <string name="suggested_app">Suggested app</string>
+    <string name="suggested_download">Suggested download</string>
+    <string name="ic_play_download_description">Install app</string>
 </resources>
