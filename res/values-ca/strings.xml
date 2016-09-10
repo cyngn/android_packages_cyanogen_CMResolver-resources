@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Baixa i obre amb</string>
-  <string name="suggested_app">Aplicació suggerida</string>
+  <string name="suggested_download">Descàrrega suggerida</string>
+  <string name="ic_play_download_description">Instal·la l\'aplicació</string>
 </resources>

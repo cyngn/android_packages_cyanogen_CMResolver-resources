@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Lataa ja avaa sovelluksella</string>
-  <string name="suggested_app">Ehdotettu sovellus</string>
+  <string name="suggested_download">Ehdotettu lataus</string>
+  <string name="ic_play_download_description">Asenna sovellus</string>
 </resources>

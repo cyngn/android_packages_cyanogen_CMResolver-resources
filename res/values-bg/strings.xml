@@ -16,6 +16,6 @@
     limitations under the License.
 -->
 <resources>
-  <string name="download_and_open_with">Изтегляне и отваряне с</string>
-  <string name="suggested_app">Предложени приложения</string>
+  <string name="suggested_download">Предложени за сваляне</string>
+  <string name="ic_play_download_description">Инсталиране на приложение</string>
 </resources>
